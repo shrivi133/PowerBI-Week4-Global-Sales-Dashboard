@@ -1,0 +1,14 @@
+{
+  "name": "Global Superstore Corporate Theme",
+  "dataColors": [
+    "#0F4C81",
+    "#00A896",
+    "#F4A261",
+    "#E76F51",
+    "#2A9D8F",
+    "#264653"
+  ],
+  "background": "#F8F9FA",
+  "foreground": "#1D3557",
+  "tableAccent": "#0F4C81"
+}

@@ -1,0 +1,19 @@
+-- ==========================================================
+-- Week 4 Assignment: Global Sales Dashboard DAX Measures
+-- ==========================================================
+
+-- 1. Executive KPI Measures
+Total Sales = SUM(GlobalSuperstore[Sales])
+
+Total Profit = SUM(GlobalSuperstore[Profit])
+
+Average Discount = AVERAGE(GlobalSuperstore[Discount])
+
+Profit Margin % = DIVIDE([Total Profit], [Total Sales], 0)
+
+-- 2. Date & Monthly Trend Columns (for Line Chart & Year Slicer)
+Order Year = YEAR(GlobalSuperstore[Order Date])
+
+Month Number = MONTH(GlobalSuperstore[Order Date])
+
+Month Name = FORMAT(GlobalSuperstore[Order Date], "MMM")

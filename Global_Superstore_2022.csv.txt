@@ -1,0 +1,13 @@
+Order Date,Region,Segment,Category,Customer Name,Product Name,Sales,Profit,Quantity,Discount
+2022-01-15,North America,Corporate,Technology,Aarav Sharma,MacBook Pro 16,3200.00,780.00,2,0.05
+2022-02-18,Europe,Consumer,Furniture,Elena Rostova,Executive Mesh Chair,1450.00,310.00,3,0.10
+2022-03-22,Asia Pacific,Home Office,Office Supplies,Kenji Takahashi,LaserJet Pro Printer,890.00,240.00,2,0.00
+2022-04-10,Latin America,Corporate,Technology,Mateo Silva,Dell UltraSharp 27,1800.00,420.00,4,0.10
+2022-05-19,Middle East & Africa,Consumer,Furniture,Zaid Al-Mansoor,Standing Desk Frame,1120.00,210.00,2,0.15
+2022-06-25,North America,Corporate,Technology,Aarav Sharma,iPad Pro 12.9,2400.00,610.00,3,0.05
+2022-07-14,Europe,Home Office,Office Supplies,Elena Rostova,Ergonomic Desk Lamp,420.00,130.00,6,0.00
+2022-08-30,Asia Pacific,Corporate,Technology,Kenji Takahashi,Sony WH-1000XM5,1650.00,490.00,5,0.05
+2022-09-12,North America,Consumer,Furniture,Sophia Miller,Conference Table Oak,2750.00,580.00,1,0.10
+2022-10-21,Europe,Corporate,Technology,Liam O'Connor,ThinkPad X1 Carbon,2950.00,720.00,2,0.05
+2022-11-08,Asia Pacific,Consumer,Office Supplies,Priya Nair,Heavy Duty Shredder,640.00,185.00,4,0.00
+2022-12-17,Latin America,Home Office,Furniture,Mateo Silva,Bookshelf Modular,980.00,220.00,3,0.10
